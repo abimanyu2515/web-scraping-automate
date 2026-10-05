@@ -1,0 +1,57 @@
+{
+    "https://cricscore-wheat.vercel.app/access": {
+        "elements": {
+            "_input": {
+                "name": "_input",
+                "tag": "input",
+                "text": "",
+                "id_attribute": null,
+                "locator_type": "css",
+                "locator": "input",
+                "html_id": null,
+                "class": [
+                    "w-10",
+                    "h-12",
+                    "text-center",
+                    "text-xl",
+                    "font-mono",
+                    "border-b",
+                    "border-zinc-600",
+                    "text-cyan-400",
+                    "focus:outline-none",
+                    "focus:border-cyan-400"
+                ],
+                "name_attribute": null,
+                "type": "password",
+                "placeholder": null,
+                "href": null
+            },
+            "enter_button": {
+                "name": "enter_button",
+                "tag": "button",
+                "text": "ENTER",
+                "id_attribute": null,
+                "locator_type": "css",
+                "locator": "button.w-full.font-mono.text-sm.text-cyan-400.border.border-cyan-400.rounded-md.py-3.transition-colors",
+                "html_id": null,
+                "class": [
+                    "w-full",
+                    "font-mono",
+                    "text-sm",
+                    "text-cyan-400",
+                    "border",
+                    "border-cyan-400",
+                    "rounded-md",
+                    "py-3",
+                    "hover:bg-cyan-400",
+                    "hover:text-black",
+                    "transition-colors"
+                ],
+                "name_attribute": null,
+                "type": null,
+                "placeholder": null,
+                "href": null
+            }
+        }
+    }
+}
