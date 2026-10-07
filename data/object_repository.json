@@ -53,5 +53,55 @@
                 "href": null
             }
         }
+    },
+    "https://cricscore-wheat.vercel.app/": {
+        "elements": {
+            "manage_players_button": {
+                "name": "manage_players_button",
+                "tag": "button",
+                "text": "MANAGE PLAYERS",
+                "locator_type": "css",
+                "locator": "button:has-text('MANAGE PLAYERS')"
+            },
+            "admin_pin_inputs": {
+                "name": "admin_pin_inputs",
+                "tag": "input",
+                "locator_type": "css",
+                "locator": "input[type='password']"
+            },
+            "admin_verify_button": {
+                "name": "admin_verify_button",
+                "tag": "button",
+                "text": "VERIFY",
+                "locator_type": "css",
+                "locator": "button:has-text('VERIFY')"
+            },
+            "add_player_button": {
+                "name": "add_player_button",
+                "tag": "button",
+                "text": "+ ADD PLAYER",
+                "locator_type": "css",
+                "locator": "button:has-text('+ ADD PLAYER')"
+            },
+            "player_name_input": {
+                "name": "player_name_input",
+                "tag": "input",
+                "placeholder": "PLAYER NAME",
+                "locator_type": "css",
+                "locator": "input[placeholder='PLAYER NAME']"
+            },
+            "player_role_buttons": {
+                "name": "player_role_buttons",
+                "tag": "button",
+                "locator_type": "css",
+                "locator": "button[aria-pressed]"
+            },
+            "player_form_dropdowns": {
+                "name": "player_form_dropdowns",
+                "tag": "select",
+                "locator_type": "css",
+                "locator": "select"
+            }
+        }
     }
 }

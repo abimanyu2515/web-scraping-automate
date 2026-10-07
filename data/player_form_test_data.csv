@@ -1,0 +1,21 @@
+player_name,role,batting_hand,bowling_hand,bowling_style
+QA Sample Player 01,BATSMAN,Right,Right,Fast
+QA Sample Player 02,BOWLER,Left,Left,Off spin
+QA Sample Player 03,ALL-ROUNDER,Right,Left,Medium-fast
+QA Sample Player 04,BATSMAN,Left,Right,Leg spin
+QA Sample Player 05,BOWLER,Right,Left,Fast-medium
+QA Sample Player 06,ALL-ROUNDER,Left,Right,Medium
+QA Sample Player 07,BATSMAN,Right,Right,Off spin
+QA Sample Player 08,BOWLER,Left,Right,Leg spin
+QA Sample Player 09,ALL-ROUNDER,Right,Right,Fast
+QA Sample Player 10,BATSMAN,Left,Left,Medium-fast
+QA Sample Player 11,BOWLER,Right,Right,Medium
+QA Sample Player 12,ALL-ROUNDER,Left,Left,Fast-medium
+QA Sample Player 13,BATSMAN,Right,Left,Leg spin
+QA Sample Player 14,BOWLER,Left,Left,Fast
+QA Sample Player 15,ALL-ROUNDER,Right,Left,Off spin
+QA Sample Player 16,BATSMAN,Left,Right,Fast-medium
+QA Sample Player 17,BOWLER,Right,Left,Medium-fast
+QA Sample Player 18,ALL-ROUNDER,Left,Right,Leg spin
+QA Sample Player 19,BATSMAN,Right,Right,Medium
+QA Sample Player 20,BOWLER,Left,Right,Off spin

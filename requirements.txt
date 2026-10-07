@@ -1,3 +1,4 @@
 beautifulsoup4
-webscraping_ai
-dotenv
+webscraping-ai
+python-dotenv
+playwright
